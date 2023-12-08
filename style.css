@@ -15,7 +15,7 @@
 }
 
 .light {
-  --text-color: black;
+  --text-color: white;
   --bg-gradient: linear-gradient(to right, #10dde8, #0e4fbb);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
